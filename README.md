@@ -118,8 +118,3 @@ PreloadScene ──► MenuScene ──► PlayScene ◄──► PauseScene
 - [Phaser 3](https://phaser.io/) with Arcade Physics
 - [webpack 5](https://webpack.js.org/) + webpack-dev-server
 - [Babel](https://babeljs.io/) for JS transpilation
-
-## 📜 Credits
-
-- **Font:** [Press Start 2P](https://fonts.google.com/specimen/Press+Start+2P) by CodeMan38, licensed under the [SIL Open Font License 1.1](assets/fonts/OFL.txt)
-- Inspired by the original *Flappy Bird*. This is a fan-made learning project and isn't affiliated with the original game.
